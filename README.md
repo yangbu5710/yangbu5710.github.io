@@ -1,4 +1,4 @@
-# 目录
+## 目录
 - [ai](./ai)
   - [mcp](./ai/mcp/)
   - [model](./ai/model/)
@@ -12,7 +12,7 @@
 - [docker](./docker)
 - [制品库](./artifactory/)
 
-# ai
+## ai
 ### mcp
 介绍如何搭建/使用mcp
 
@@ -22,10 +22,10 @@ huggingface模型地址
 ### promot
 教你如何写prompt
 
-# linux指令操作
+## linux指令操作
 1. 数据同步
 
-# dev
+## dev
 开发知识
 
 ### golang
@@ -34,9 +34,9 @@ huggingface模型地址
 ### java
 暂无内容
 
-# git
+## git
 git基本指令
 
-# docker
+## docker
 
-# 制品库
+## 制品库
