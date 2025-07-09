@@ -1,4 +1,5 @@
 # 目录
-- [mcp](./mcp/)
-- [model](./model/)
-- [prompt](./prompt/)
+- [mcp](./ai/mcp/)
+- [model](./ai/model/)
+- [prompt](./ai/prompt/) 
+  - [code_review](./ai/prompt/code_review/)

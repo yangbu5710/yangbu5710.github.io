@@ -1,0 +1,1 @@
+1. [nexus settings.xml配置](./nexus3-settings.xml):将maven源指向指定仓库

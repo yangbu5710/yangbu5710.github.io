@@ -1,3 +1,4 @@
+# Be funny,be optimistic and be seek knowledge
 ## 目录
 - [ai](./ai)
   - [mcp](./ai/mcp/)
@@ -9,34 +10,17 @@
   - [golang](./dev/golang/) 
   - [java](./dev/java/) 
 - [git](./git)
-- [docker](./docker)
-- [制品库](./artifactory/)
+- [artifacotory](./artifactory/)
+- [container](./container/)
 
-## ai
-### mcp
-介绍如何搭建/使用mcp
-
-### model
-huggingface模型地址
-
-### promot
-教你如何写prompt
-
-## linux指令操作
-1. 数据同步
-
-## dev
-开发知识
-
-### golang
-编程模式
-
-### java
-暂无内容
-
-## git
-git基本指令
-
-## docker
-
-## 制品库
+1. ai
+   1. mcp：搭建/使用mcp
+   2. model：huggingface模型地址
+   3. promot：如何写prompt
+2. linux指令操作：数据同步
+3. dev：开发知识
+   1. golang：编程模式
+   2. java：暂无内容 
+4. git：基本指令
+5. 制品库：暂无
+6. 容器：暂无

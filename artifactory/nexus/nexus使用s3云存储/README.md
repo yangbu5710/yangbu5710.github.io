@@ -2,6 +2,7 @@
 - [目录](#目录)
 - [简介](#简介)
 - [操作步骤](#操作步骤)
+- [参考文档](#参考文档)
 
 
 # 简介
@@ -23,3 +24,7 @@ Sonatype nexus3作为本地maven仓库，目前支持(java,npm,python,debian mir
 1. nexus3 左上角"设置"--->Blob Stores--->配好对应的s3数据
    ![配置界面](./nexus3.png)
 2. 新建repository的时候选择刚刚的Blob Stores Name
+
+# 参考文档
+- 原文档：https://cloud.tencent.com/developer/article/1752556
+- 相关指令：docker cp ./nexus-blobstore-s3-3.28.1-01.jar 51e437b4a59a:/opt/sonatype/nexus/system/org/sonatype/nexus/plugins/nexus-blobstore-s3/3.28.1-01/

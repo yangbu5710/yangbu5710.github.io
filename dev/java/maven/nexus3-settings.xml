@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.2.0 http://maven.apache.org/xsd/settings-1.2.0.xsd">
+  <mirrors>
+    <mirror>
+      <id>xxx</id>
+      <mirrorOf>*</mirrorOf>
+      <name>your nexus</name>
+      <url>https://nexus3.xxx.co/repository/maven-public/</url>
+      <!--<url>https://nexus-springboard.xxx.co/content/groups/public/</url>-->
+    </mirror>
+  </mirrors>
+  <!--
+<servers>
+        <server>
+            <id>xxx-releases</id>
+            <username>xxx</username>
+            <password>xxx</password>
+        </server>
+        <server>
+            <id>xxx-snapshots</id>
+            <username>xxx</username>
+            <password>xxx</password>
+        </server>
+    </servers>-->
+  <profiles>
+    <profile>
+      <id>xxx</id>
+      <repositories>
+        <repository>
+          <id>xxx-releases</id>
+          <name>Xxx Nexus Release</name>
+          <url>https://nexus3.xxx.co/repository/maven-releases/</url>
+          <releases>
+            <enabled>true</enabled>
+            <checksumPolicy>warn</checksumPolicy>
+          </releases>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+        </repository>
+        <repository>
+          <id>xxx-snapshots</id>
+          <name>xxx Nexus Snapshot</name>
+          <url>https://nexus3.xxx.co/repository/maven-snapshots/</url>
+          <releases>
+            <enabled>false</enabled>
+          </releases>
+          <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>daily</updatePolicy>
+            <checksumPolicy>warn</checksumPolicy>
+          </snapshots>
+        </repository>
+      </repositories>
+      <pluginRepositories>
+        <pluginRepository>
+          <id>xxx-releases</id>
+          <name>Xxx Nexus Release</name>
+          <url>https://nexus3.xxx.co/repository/maven-releases/</url>
+          <releases>
+            <enabled>true</enabled>
+            <checksumPolicy>warn</checksumPolicy>
+          </releases>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+        </pluginRepository>
+        <pluginRepository>
+          <id>xxx-snapshots</id>
+          <name>Xxx Nexus Snapshot</name>
+          <url>https://nexus3.xxx.co/repository/maven-snapshots/</url>
+          <releases>
+            <enabled>false</enabled>
+          </releases>
+          <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>daily</updatePolicy>
+            <checksumPolicy>warn</checksumPolicy>
+          </snapshots>
+        </pluginRepository>
+      </pluginRepositories>
+    </profile>
+  </profiles>
+  <activeProfiles>
+    <activeProfile>xxx</activeProfile>
+  </activeProfiles>
+</settings>
+
