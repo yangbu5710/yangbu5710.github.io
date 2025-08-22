@@ -12,6 +12,7 @@
 - [git](./git)
 - [artifacotory](./artifactory/)
 - [container](./container/)
+- [sonarqube](./sonarqube/)
 
 1. ai
    1. mcp：搭建/使用mcp
