@@ -1,0 +1,6 @@
+{
+  "selectedAuthType": "openai",
+  "sampling_params": {
+    "temperature": 1
+  }
+}

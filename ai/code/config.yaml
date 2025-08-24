@@ -1,0 +1,7 @@
+model_list:
+    - model_name: gemini-2.5-pro
+      litellm_params:
+        model: openai/gemini-2.5-pro
+        api_key: bsk-xxx
+        api_base: http://llmapi.bilibili.co/v1
+
