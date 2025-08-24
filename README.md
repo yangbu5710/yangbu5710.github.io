@@ -5,6 +5,7 @@
   - [model](./ai/model/)
   - [prompt](./ai/prompt/) 
     - [code_review](./ai/prompt/code_review/)
+  - [code](./ai/code/)
 - [linux指令操作](./linux) 
 - [dev](./dev) 
   - [golang](./dev/golang/) 
