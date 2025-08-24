@@ -13,5 +13,8 @@ rsync -av -e "ssh -p 22" --delete /mnt/nexus-data/* root@10.149.12.14:/mnt/nexus
 ```shell
 #清理./android/.nexus目录下超过15天的数据
 find ./android/ -path "./android/.nexus/**/*" -prune -o -mtime -14 -print
-
 ```
+
+## 好用的shell工具
+> [ghostty](https://github.com/ghostty-org/ghostty)  
+> [starship](https://starship.rs/)，配置文件https://github.com/yangbu5710/dotfiles/blob/master/.config/starship.toml
