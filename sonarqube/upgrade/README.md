@@ -8,6 +8,7 @@
 
 # 升级文档
 升级核心就是数据库和插件，这里主要介绍数据库，插件只用拷贝到指定目录，一般也不会太大
+Dockerfile:https://github.com/SonarSource/docker-sonarqube/blob/9.9.6/9/community/Dockerfile
 ```shell
 # 创建网络
 docker network create sonarqube-9lta
