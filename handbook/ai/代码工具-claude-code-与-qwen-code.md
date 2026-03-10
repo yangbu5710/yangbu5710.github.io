@@ -21,7 +21,7 @@ litellm --config your_config.yaml
 
 - 源码：`https://github.com/anthropics/claude-code`
 - 文档：`https://docs.anthropic.com/zh-CN/docs/claude-code/overview`
-- 示例配置：`ai/code/config.yaml`
+- 示例配置：`handbook/ai/assets/litellm-config.yaml`
 
 ## Qwen Code
 
@@ -36,6 +36,8 @@ Issue：`https://github.com/QwenLM/qwen-code/issues/224`
 ### 配置
 
 将配置文件放到：`~/.qwen/settings.json`
+
+示例：`handbook/ai/assets/qwen-settings.json`
 
 ### 参考
 
