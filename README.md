@@ -4,21 +4,6 @@
 
 ## 目录
 - [handbook](./handbook/)（推荐入口）
-- [ai](./ai)
-  - [mcp](./ai/mcp/)
-  - [model](./ai/model/)
-  - [prompt](./ai/prompt/) 
-    - [code_review](./ai/prompt/code_review/)
-  - [code](./ai/code/)
-- [linux指令操作](./linux) 
-- [dev](./dev) 
-  - [golang](./dev/golang/) 
-  - [java](./dev/java/) 
-- [git](./git)
-- [artifactory](./artifactory/)
-- [container](./container/)
-- [sonarqube](./sonarqube/)
-  - [升级](./sonarqube/upgrade/)
 
 ## 维护
 
