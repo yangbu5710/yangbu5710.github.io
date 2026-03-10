@@ -1,7 +1,7 @@
-# 目录
+# Maven
 
-## maven相关操作
-### 通过shell指令上传包
-```shell
-mvn deploy:deploy-file -Dmaven.test.skip=true -Dfile=/Users/yangbu/Desktop/ads-1.1.1.jar -DgroupId=${groupId} -DartifactId=${artifactId} -Dversion=${version} -Dpackaging=aar -DrepositoryId=shared-aar  -Durl=https://nexus.bilibili.co/content/repositories/shared-aar/ -DpomFile=/Users/yangbu/Desktop/pom.xml
-```
+本目录内容已整理到 [Handbook / Artifactory](../../handbook/artifactory/)。
+
+## 入口
+
+- 上传制品：[`handbook/artifactory/maven-上传制品`](../../handbook/artifactory/maven-上传制品.md)
