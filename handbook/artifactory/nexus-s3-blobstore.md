@@ -23,7 +23,7 @@ Sonatype Nexus3 作为本地制品仓库，支持（Java、npm、Python、Debian
 ### 开始执行
 
 1. Nexus3 左上角「设置」→ Blob Stores → 配置对应的 S3
-   - 原图在：`artifactory/nexus/nexus使用s3云存储/nexus3.png`
+   [nexus3.png](./assets/nexus3.png)
 2. 新建 repository 时选择对应的 Blob Stores Name
 
 ## 参考

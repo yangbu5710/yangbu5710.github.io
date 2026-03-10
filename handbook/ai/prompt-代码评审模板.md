@@ -2,9 +2,7 @@
 
 ## 关键词
 
-原图在：`ai/prompt/code_review/prompt.webp`
-
-[![如何写 prompt](../../ai/prompt/code_review/prompt.webp)](https://mp.weixin.qq.com/s?__biz=MzI3NTU5NTA3MA==&mid=2247486797&idx=1&sn=cbe4df370c0a78c2972c76f3654ad101&chksm=eb03271cdc74ae0ae28d3177fb6682ac875c2426de8b3353bbbc6d772a2b9572ac408e0f7734&scene=27)
+[![如何写 prompt](./assets/prompt.webp)](https://mp.weixin.qq.com/s?__biz=MzI3NTU5NTA3MA==&mid=2247486797&idx=1&sn=cbe4df370c0a78c2972c76f3654ad101&chksm=eb03271cdc74ae0ae28d3177fb6682ac875c2426de8b3353bbbc6d772a2b9572ac408e0f7734&scene=27)
 
 ## CR Review
 
