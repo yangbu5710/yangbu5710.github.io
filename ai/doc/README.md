@@ -1,13 +1,7 @@
-# 目录
-- [Ai工作原理](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)：结构清晰让读者了解Ai工作原理
+# AI 文档
 
-# Ai api key和文档
-## codex
-- [api-key](https://platform.openai.com/chat)
-- [docs](https://developers.openai.com/codex)
-### gemini 
-- [api-key](https://aistudio.google.com/api-keys)
-- [docs](https://ai.google.dev/gemini-api/docs?hl=zh-cn)
-### claude code 
-- [api-key](https://platform.claude.com/settings/keys)
-- [docs](https://code.claude.com/docs/zh-CN/overview)
+本目录内容已整理到 [Handbook / AI](../../handbook/ai/)。
+
+## 入口
+
+- 学习资料与 API Key：[`handbook/ai/学习资料与-api-key`](../../handbook/ai/学习资料与-api-key.md)
