@@ -1,9 +1,7 @@
-- [简介](#简介)
+# Kubernetes
 
-# 简介
-本文主要介绍k8s相关指令操作
+本目录内容已整理到 [Handbook / Container](../../handbook/container/)。
 
-1. 查询namespace下的全部configmap`kubectl get cm -n kube-system`
-2. 获取namespace下的指定configmap详情`kubectl describe cm -n kube-system`
-3. 编辑namespace下的指定configmap详情`kubectl edit cm -n kube-system`
-4. 
+## 入口
+
+- Kubernetes 指令：[`handbook/container/k8s-指令`](../../handbook/container/k8s-指令.md)
