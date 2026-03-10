@@ -4,9 +4,7 @@
 
 ## 导航
 
-- 原始目录入口：[`artifactory/`](../../artifactory/)
-- Maven：[`artifactory/maven/`](../../artifactory/maven/)
-- Nexus：[`artifactory/nexus/`](../../artifactory/nexus/)
+- 本主题内容统一维护在 `handbook/artifactory/`，不再依赖旧目录结构。
 
 ## 页面
 

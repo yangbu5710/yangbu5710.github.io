@@ -4,12 +4,7 @@
 
 ## 导航
 
-- 原始目录入口（未完全迁移前）：[`ai/`](../../ai/)
-- MCP：[`ai/mcp/`](../../ai/mcp/)
-- 模型相关：[`ai/model/`](../../ai/model/)
-- Prompt：[`ai/prompt/`](../../ai/prompt/)
-- 代码/工具：[`ai/code/`](../../ai/code/)
-- OpenClaw：[`ai/openclaw/`](../../ai/openclaw/)
+- 本主题内容统一维护在 `handbook/ai/`，不再依赖旧目录结构。
 
 ## 页面
 

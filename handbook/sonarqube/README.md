@@ -4,8 +4,7 @@
 
 ## 导航
 
-- 原始目录入口：[`sonarqube/`](../../sonarqube/)
-- 升级记录：[`sonarqube/upgrade/`](../../sonarqube/upgrade/)
+- 本主题内容统一维护在 `handbook/sonarqube/`，不再依赖旧目录结构。
 
 ## 页面
 

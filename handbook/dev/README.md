@@ -4,9 +4,7 @@
 
 ## 导航
 
-- 原始目录入口：[`dev/`](../../dev/)
-- Golang：[`dev/golang/`](../../dev/golang/)
-- Java：[`dev/java/`](../../dev/java/)
+- 本主题内容统一维护在 `handbook/dev/`，不再依赖旧目录结构。
 
 ## 页面
 

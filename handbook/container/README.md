@@ -4,8 +4,7 @@
 
 ## 导航
 
-- 原始目录入口：[`container/`](../../container/)
-- Kubernetes：[`container/k8s/`](../../container/k8s/)
+- 本主题内容统一维护在 `handbook/container/`，不再依赖旧目录结构。
 
 ## 页面
 
