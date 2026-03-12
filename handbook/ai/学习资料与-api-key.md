@@ -3,6 +3,8 @@
 ## 学习资料
 
 - [AI 工作原理](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)：结构清晰，适合快速建立直觉
+- [Embedding 排行榜（MTEB）](https://huggingface.co/spaces/mteb/leaderboard)
+- [Prompt engineering（Transformers Docs）](https://huggingface.co/docs/transformers/main/en/tasks/prompting#prompt-engineering)
 
 ## API Key 与文档
 
